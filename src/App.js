@@ -4,10 +4,6 @@ import './cards'
 import Cards from './cards';
 
 class App extends Component {
-  // eslint-disable-next-line no-undef
-  // state = {
-    
-  // }
 
   render() {
     const cards = [
