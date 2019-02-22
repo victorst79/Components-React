@@ -13,6 +13,13 @@ class App extends Component {
         'texto': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum dolores in ut, deleniti aperiam facere dicta repudiandae fuga? Sequi sunt amet aspernatur suscipit atque architecto tempore eveniet vitae libero exercitationem!',
         'imagen': 'https://99116.cmstrial.net/images/285626/strawberry.jpg',
         'like': 10
+      },
+      {
+        'nombre': 'Example Card 2',
+        'fecha': new Date().toLocaleString(),
+        'texto': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum dolores in ut, deleniti aperiam facere dicta repudiandae fuga? Sequi sunt amet aspernatur suscipit atque architecto tempore eveniet vitae libero exercitationem!',
+        'imagen': 'https://entertainmentsinfo.files.wordpress.com/2014/08/fish-the-animal-kingdom-251177_1024_768.jpg',
+        'like': 5
       }
     ]    
     return (
